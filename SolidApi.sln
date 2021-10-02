@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidApi", "SolidApi\SolidApi.csproj", "{5F2F61AA-C25B-4CB7-A6DD-D94440FBB753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidApiTests", "SolidApiTests\SolidApiTests.csproj", "{90C8C7B3-BCA4-4FBB-98AF-096F1D01E83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidApiHarness", "SolidApiHarness\SolidApiHarness.csproj", "{D134F96F-7019-4C72-AD61-D0119E363A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonUpdateManagementService", "PersonUpdateManagementService\PersonUpdateManagementService.csproj", "{11626A60-9186-4B45-B184-65E30A7CB777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonDeletionManagementService", "PersonDeletionManagementService\PersonDeletionManagementService.csproj", "{9BEA4C07-D45D-48AC-95C9-84D5D75B3794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRetrievalManagementService", "PersonRetrievalManagementService\PersonRetrievalManagementService.csproj", "{92623751-7D8C-4240-BF79-E3CD3B79A26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonCreationManagementService", "PersonCreationManagementService\PersonCreationManagementService.csproj", "{CD433A68-32DB-42AD-8D70-AAE31B4BEB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2F61AA-C25B-4CB7-A6DD-D94440FBB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2F61AA-C25B-4CB7-A6DD-D94440FBB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2F61AA-C25B-4CB7-A6DD-D94440FBB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2F61AA-C25B-4CB7-A6DD-D94440FBB753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C8C7B3-BCA4-4FBB-98AF-096F1D01E83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C8C7B3-BCA4-4FBB-98AF-096F1D01E83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C8C7B3-BCA4-4FBB-98AF-096F1D01E83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C8C7B3-BCA4-4FBB-98AF-096F1D01E83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D134F96F-7019-4C72-AD61-D0119E363A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D134F96F-7019-4C72-AD61-D0119E363A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D134F96F-7019-4C72-AD61-D0119E363A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D134F96F-7019-4C72-AD61-D0119E363A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11626A60-9186-4B45-B184-65E30A7CB777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11626A60-9186-4B45-B184-65E30A7CB777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11626A60-9186-4B45-B184-65E30A7CB777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11626A60-9186-4B45-B184-65E30A7CB777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BEA4C07-D45D-48AC-95C9-84D5D75B3794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEA4C07-D45D-48AC-95C9-84D5D75B3794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEA4C07-D45D-48AC-95C9-84D5D75B3794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEA4C07-D45D-48AC-95C9-84D5D75B3794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92623751-7D8C-4240-BF79-E3CD3B79A26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92623751-7D8C-4240-BF79-E3CD3B79A26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92623751-7D8C-4240-BF79-E3CD3B79A26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92623751-7D8C-4240-BF79-E3CD3B79A26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD433A68-32DB-42AD-8D70-AAE31B4BEB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD433A68-32DB-42AD-8D70-AAE31B4BEB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD433A68-32DB-42AD-8D70-AAE31B4BEB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD433A68-32DB-42AD-8D70-AAE31B4BEB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

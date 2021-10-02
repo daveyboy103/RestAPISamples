@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bqc3IRCnA/RWDTB5NtrK7odFvsBqKWL4IgRKx/NsGxreRmu9Mb54hhJM2ZmSN6IRi2SunMXEtnKalpFpUMAzJQ==",
+  "success": true,
+  "projectFilePath": "/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/SolidApi/SolidApi/SolidApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidharrington/.nuget/packages/autofac/6.2.0/autofac.6.2.0.nupkg.sha512",
+    "/Users/davidharrington/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
